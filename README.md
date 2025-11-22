@@ -2,7 +2,7 @@
 
 A modern YouTube-inspired web application built with React and Redux, featuring video discovery, advanced search, and infinite scroll.
 
-## 🎯 Features
+## Features
 
 - **YouTube Video API Integration** - Fetch and display videos in real-time
 - **Advanced Search with Debouncing** - Optimized search with cached suggestions
@@ -13,7 +13,7 @@ A modern YouTube-inspired web application built with React and Redux, featuring 
 - **Responsive Design** - Works perfectly on mobile, tablet, and desktop
 - **Live Chat Example** - Interactive chat simulation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 19** - UI Framework
 - **Redux Toolkit** - State Management
@@ -22,7 +22,7 @@ A modern YouTube-inspired web application built with React and Redux, featuring 
 - **YouTube Data API v3** - Video Data
 - **Vite** - Build Tool
 
-## 📁 Key Files
+## Key Files
 
 - `src/components/VideoContainer.jsx` - Infinite scroll implementation
 - `src/hooks/useVideosApi.js` - YouTube API fetching with caching
@@ -30,7 +30,7 @@ A modern YouTube-inspired web application built with React and Redux, featuring 
 - `src/redux/watchLaterslice.js` - Watch later state
 - `src/components/SearchBar.jsx` - Debounced search with suggestions
 
-## 💡 How It Works
+## How It Works
 
 **Search Debouncing** - Reduces API calls by waiting 300ms after user stops typing
 
@@ -40,4 +40,4 @@ A modern YouTube-inspired web application built with React and Redux, featuring 
 
 **Watch Later** - Click the three-dot menu to save videos locally
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Rishabh Prajapati**

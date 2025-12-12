@@ -1,6 +1,7 @@
 # YouTube Clone
 
 A modern YouTube-inspired web application built with React and Redux, featuring video discovery, advanced search, and infinite scroll.
+**Live Demo**- https://youvue.vercel.app
 
 ## Features
 
